@@ -13,8 +13,8 @@
   "devDependencies": {},
   "scripts": {
     "start": "node server.js",
-    "test": "mocha",
-    "postinstall": "bower install && grunt build"
+    "test": "mocha"
+  
   },
   "keywords": [],
   "author": "",
